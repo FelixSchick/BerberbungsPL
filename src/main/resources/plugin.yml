@@ -1,0 +1,5 @@
+name: BewerbungsPlugin
+version: ${project.version}
+main: de.illegalacces.bewerbungsplugin.BewerbungsPlugin
+api-version: 1.17
+authors: [ IllegalAcces ]
